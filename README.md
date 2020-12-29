@@ -5,7 +5,7 @@
 
 Actually, there are two separated apps. The frontend which serves to the client use  (using React), 
 and the Backend-server (in Node/Express) which implements the API that ensures the communication between the front and the back .
-For our storage data , we use a json file.
+
 
 ### How to run the Backend 
 
